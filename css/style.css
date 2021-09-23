@@ -1,0 +1,19 @@
+.th1{
+  background-color: #3498DB;
+}
+.th2{
+  background-color: #82E0AA;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+body{
+  text-align:center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #FCF3CF ;
+}
+table{
+  margin-left: 40%;
+}
+/*EMILIO RENDON*/
